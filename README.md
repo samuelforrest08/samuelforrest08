@@ -6,16 +6,15 @@
 
 <br/>
 
-Hi, I'm Samuel Forrest, a 17-year-old student in the UK, currently completing my A Levels, before joining Barclays in August as a Software Developer Degree Apprentice.
+I'm a 17-year-old student in the UK completing my A Levels, before joining Barclays in August as a Software Developer Degree Apprentice.
 
-My main interest is software development, especially building fast, well-designed apps that run in the browser. My core tech stack is next.js, tailwind, supabase and typescript and I am familiar with using AI tools such as Claude Code to speed up development.
+My main interest is software development, especially building fast, well-designed apps that run in the browser. My core tech stack is Next.js, Tailwind, Supabase and TypeScript, and I use AI tools such as Claude Code to speed up development.
 
-Some of my key achievements include strong GCSE results of 9999999987, an A* in the EPQ and completing work experience British Airways, AAIB and HUDJO. Alongside this, I have completed freelance web development projects, done tutoring, and volunteered in the community.
+Key achievements include strong GCSE results of 9999999987, an A* in the EPQ, and work experience at British Airways, AAIB and HUDJO. I've also completed freelance web development projects, done tutoring, volunteered in the community, and worked as CTO of Apprentadream.
 
-Outside of school and work, I am a very ambitious and entrepreneurial person, creating apps and websites in my free time, and own over 10 domain names. I am currently in the process of launching a startup, ideally for September 2026.
+Outside of work I'm entrepreneurial by nature — I own over 10 domain names and am currently building a startup, aiming to launch by September 2026.
 
-In my free time I enjoy playing tennis, chess, watersports and the saxophone. Feel free to check out my LinkedIn, GitHub, and YouTube, or send me an email.
-
+In my free time I enjoy tennis, chess, watersports and the saxophone.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,typescript,html,css,react,figma,github,vscode,git,supabase,vercel,nextjs,tailwind,notion" alt="Skills and languages" height="80" />
