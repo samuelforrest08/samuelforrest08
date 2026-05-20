@@ -17,7 +17,7 @@ Outside of work I'm entrepreneurial by nature — I own over 10 domain names and
 In my free time I enjoy tennis, chess, watersports and the saxophone.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,typescript,html,css,react,figma,github,vscode,git,supabase,vercel,nextjs,tailwind,notion" alt="Skills and languages" height="80" />
+  <img src="https://skillicons.dev/icons?i=python,js,typescript,html,css,react,figma,github,vscode,git,supabase,vite,nextjs,tailwind,notion" alt="Skills and languages" height="80" />
 </p>
 
 
