@@ -8,7 +8,7 @@
 
 I'm a 17-year-old student in the UK completing my A Levels, before joining Barclays in August as a Software Developer Degree Apprentice.
 
-My main interest is software development, especially building fast, well-designed apps that run in the browser. My core tech stack is Next.js, Tailwind, Supabase and TypeScript, and I use AI tools such as Claude Code to speed up development.
+My main interest is software development, especially building fast, well-designed apps that run in the browser. My core tech stack is React, Vite, Next.js, Tailwind, Supabase and TypeScript, and I use AI tools such as Claude Code to speed up development.
 
 Key achievements include strong GCSE results of 9999999987, an A* in the EPQ, and work experience at British Airways, AAIB and HUDJO. I've also completed freelance web development projects, done tutoring, volunteered in the community, and worked as CTO of Apprentadream.
 
